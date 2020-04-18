@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-confidence-pool-ui-dev-151925-authRole",
+            "UnauthRoleArn": "arn:aws:iam::846955067493:role/amplify-confidence-pool-ui-dev-151925-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::846955067493:role/amplify-confidence-pool-ui-dev-151925-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-confidence-pool-ui-dev-151925-deployment",
+            "UnauthRoleName": "amplify-confidence-pool-ui-dev-151925-unauthRole",
+            "StackName": "amplify-confidence-pool-ui-dev-151925",
+            "StackId": "arn:aws:cloudformation:us-east-1:846955067493:stack/amplify-confidence-pool-ui-dev-151925/82b51920-80f9-11ea-b9a3-0a28f59d0ab4",
+            "AmplifyAppId": "d1addb4jzaw7zg"
+        },
+        "categories": {
+            "auth": {
+                "ConfidencePoolUserPool": {}
+            }
+        }
+    }
+}

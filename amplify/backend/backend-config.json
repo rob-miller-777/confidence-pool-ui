@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"ConfidencePoolUserPool": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
