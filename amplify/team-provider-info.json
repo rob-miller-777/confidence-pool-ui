@@ -16,5 +16,23 @@
                 "ConfidencePoolUserPool": {}
             }
         }
+    },
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-confidence-pool-ui-prod-172125-authRole",
+            "UnauthRoleArn": "arn:aws:iam::846955067493:role/amplify-confidence-pool-ui-prod-172125-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::846955067493:role/amplify-confidence-pool-ui-prod-172125-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-confidence-pool-ui-prod-172125-deployment",
+            "UnauthRoleName": "amplify-confidence-pool-ui-prod-172125-unauthRole",
+            "StackName": "amplify-confidence-pool-ui-prod-172125",
+            "StackId": "arn:aws:cloudformation:us-east-1:846955067493:stack/amplify-confidence-pool-ui-prod-172125/8ba0aac0-810a-11ea-ba8c-0e9711d18427",
+            "AmplifyAppId": "d1addb4jzaw7zg"
+        },
+        "categories": {
+            "auth": {
+                "ConfidencePoolUserPool": {}
+            }
+        }
     }
 }
